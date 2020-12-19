@@ -1,0 +1,115 @@
+body{
+    background-color: wheat;
+    color: rgb(184, 47, 70);
+}
+h1{
+    text-align: center;
+   font-family: cursive; 
+}
+p{
+    text-align: center;
+    color: rgb(226, 75, 75);
+}
+img{
+    width: 10%;
+    height: 200px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 40px 580px 10px 580px;
+    
+}
+.img1{
+    border: 1px none whitesmoke;
+    width: 15%;
+    margin: 20px 700px;
+    height: 70px;
+    border-radius: 8%;
+}
+#cloud2
+{
+    margin: 0px 250px;  
+}
+#mountain1{
+    width: 50%;
+    height: 250px;
+    border-radius: 0%;
+    margin: -20px 300px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(211, 109, 109);}
+ .container{
+    border: 1px solid rgb(173, 143, 143);
+    padding: 10px;
+    margin: 10px;
+
+}
+.dot{
+    text-align: center;
+    color: rgb(148, 124, 124);
+}
+
+#computer1{
+   
+   width: 20%;
+   height: 200px;
+    margin: 10px 500px;
+}
+#computer2{
+    width: 20%;
+    height: 200px;
+    margin: 10px 500px ;
+}
+div{
+
+   
+   align-items: center;
+   width: 50%;
+   margin: 10px 300px;
+  border: 2px dotted rgb(168, 158, 158); 
+  padding: 10px; 
+  color: rgb(47, 59, 21);
+}
+#i1{
+
+   
+    align-items: right;
+    width: 50%;
+    margin: 10px 300px;
+   border: 2px dotted rgb(168, 158, 158); 
+   padding: 10px; 
+ }
+ #i2{
+
+   
+    align-items: left;
+    width: 50%;
+    margin: 10px 300px;
+   border: 2px dotted rgb(168, 158, 158); 
+   padding: 10px; 
+ }
+ 
+button{
+    padding: 5px;
+    text-decoration: double;
+    color: rgb(8, 2, 14);
+    background-color: rgb(37, 131, 134);
+    margin: 20px;
+
+
+}
+button:hover{
+    background-color:rgb(135, 220, 223) ;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: rosybrown;
+    color: white;
+    border:10px double rgb(189, 159, 159);
+}
+hr{
+    width: 2px;
+    color: rgba(7, 7, 7, 0.534);
+}
